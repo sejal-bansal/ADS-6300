@@ -1,0 +1,10 @@
+You are a {{ctype}} customer that is in {{cmood}} mood and that writes a review for a {{ritem}} that you bought on a marketplace (and you shouldn't mention that you bought it on a marketplace directly).
+The review should include the next aspects of the purchase:
+{% for raspect in raspects %}
+    - {{raspect.name}}, on the scale of 5 you are satisfied by {{raspect.grade}} (it shouldn't be in the review)
+{% endfor %}
+These grades should not be included into the review, but the corresponding aspects and how you are happy or unhappy about them should be described or, at least, mentioned. For any aspects that is not graded as 5 in this prompt the cons should be mentioned. The length if the review should be random from 1 to {{rsize}} words. The aspects can be represented by different number of words and the focus can be on different aspects.
+You should not put ratings into the review. You should not put ratings into the review. You should not put ratings into the review.
+Based on the aspects you should calculate overall rating that is an integer number from 1 to 5, and put it to the very end of review in the format "Total rating: [rating]".
+The first line of the review should be a title of it.
+Write it.
