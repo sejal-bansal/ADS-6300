@@ -119,7 +119,7 @@ regex @ file:///Users/runner/miniforge3/conda-bld/regex_1679599458930/work
 requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1673863902341/work
 rfc3339-validator @ file:///home/conda/feedstock_root/build_artifacts/rfc3339-validator_1638811747357/work
 rfc3986-validator @ file:///home/conda/feedstock_root/build_artifacts/rfc3986-validator_1598024191506/work
-scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1678356646103/work
+scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1679676062989/work
 scipy==1.10.1
 Send2Trash @ file:///home/conda/feedstock_root/build_artifacts/send2trash_1628511208346/work
 sentry-sdk @ file:///home/conda/feedstock_root/build_artifacts/sentry-sdk_1678990004028/work
