@@ -77,6 +77,8 @@ nltk @ file:///home/conda/feedstock_root/build_artifacts/nltk_1672696305909/work
 notebook @ file:///home/conda/feedstock_root/build_artifacts/notebook_1667565639349/work
 notebook_shim @ file:///home/conda/feedstock_root/build_artifacts/notebook-shim_1667478401171/work
 numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1675642654104/work
+onnx @ file:///Users/runner/miniforge3/conda-bld/onnx_1679389974732/work
+onnxconverter-common @ file:///home/conda/feedstock_root/build_artifacts/onnxconverter-common_1667648735244/work
 openai @ file:///home/conda/feedstock_root/build_artifacts/openai_1678675464569/work
 openpyxl==3.1.1
 packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1673482170163/work
@@ -126,6 +128,7 @@ sentry-sdk @ file:///home/conda/feedstock_root/build_artifacts/sentry-sdk_167899
 setproctitle @ file:///Users/runner/miniforge3/conda-bld/setproctitle_1666817297345/work
 sip @ file:///Users/runner/miniforge3/conda-bld/sip_1675696770997/work
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+skl2onnx @ file:///home/conda/feedstock_root/build_artifacts/skl2onnx_1677753377612/work
 smmap @ file:///home/conda/feedstock_root/build_artifacts/smmap_1611376390914/work
 sniffio @ file:///home/conda/feedstock_root/build_artifacts/sniffio_1662051266223/work
 soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_1658207591808/work
