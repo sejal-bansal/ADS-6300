@@ -11,8 +11,8 @@
 
 *_big - reviews with increased size
 
-*_posneg - *_simple + *_one + reviews with pos/neut/neg instead of ratings
+*_posneg - *_one + reviews with pos/neut/neg instead of ratings
 
-*_stop *_simple + *_one + removed stop words (best result)
+*_stop - *_one + removed stop words (best result)
 
 *_df - *_top + ngrams + df
