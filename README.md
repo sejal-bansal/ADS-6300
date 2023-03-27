@@ -1,4 +1,4 @@
-## Execution order
+## Execution order for drafts
 
 - generate.ipynb - generate reviews
 - clean.ipynb - clean the text
@@ -16,3 +16,7 @@
 *_stop - *_one + removed stop words (best result)
 
 *_df - *_top + ngrams + df
+
+*_total - *_simple + total rating instead of aspects' ratings
+
+*_w2v - *_one + a pre-trained corpus instead of TF-IDF vectorization
