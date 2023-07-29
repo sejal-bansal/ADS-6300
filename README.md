@@ -10,6 +10,8 @@ We analyzed the dataset at the review level, focusing on individual reviews rath
 Data Cleaning:
 Data cleaning was performed to ensure accuracy, completeness, and consistency. Steps included removing null values and duplicates, eliminating HTML tags, emails, and URLs, replacing accented letters and contractions, removing emojis and special symbols, fixing grammar, lowercasing letters, removing punctuation, lemmatizing words, removing stopwords, and merging titles and texts. Reviews were then vectorized using TF-IDF vectorizer.
 
+![eda](images/md_svm(seller).png)
+
 Models:
 We trained and evaluated several models for classification, including 1D CNN, RNN with LSTM, BERT, and SVM. Accuracy was chosen as the main evaluation metric. Each aspect had a separate model trained with hyperparameters tuning, and the mean accuracy was calculated. The models' performance on the test set and unseen data was analyzed.
 
